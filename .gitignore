@@ -128,4 +128,4 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node,yarn
 
-build/index.html
+public/index.html

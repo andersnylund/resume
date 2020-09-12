@@ -131,8 +131,31 @@
       "keywords": ["Spring Boot", ""]
     },
     {
-      "name": "Azure Web Apps for Containers",
-      "level": "1 year"
+      "name": "VCS",
+      "level": "4 years",
+      "keywords": ["Git"]
+    },
+    {
+      "name": "Azure",
+      "level": "1 year",
+      "keywords": ["Web Apps for Containers", "CDN", "Database for PostgreSQL"]
+    },
+    {
+      "name": "Heroku",
+      "level": "2 years"
+    },
+    {
+      "name": "Netlify",
+      "level": "2 years"
+    },
+    {
+      "name": "Terraform",
+      "level": "1 year",
+      "keywords": ["Azure Provider"]
+    },
+    {
+      "name": "Docker",
+      "level": "2 years"
     },
     {
       "name": "CI / CD",
