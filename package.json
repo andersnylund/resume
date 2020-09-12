@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "dev": "resume server --theme elegant",
-    "build": "resume export --format html --theme elegant public/index.html"
+    "build": "resume export --format html --theme elegant build/index.html"
   },
   "repository": {
     "type": "git",
