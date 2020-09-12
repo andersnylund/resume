@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "resume server --theme elegant",
+    "dev": "resume serve --theme elegant",
     "build": "resume export --format html --theme elegant build/index.html"
   },
   "repository": {
