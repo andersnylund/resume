@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Anders Nylund",
+    "label": "Software Developer",
+    "picture": "https://avatars0.githubusercontent.com/u/18005239",
+    "email": "anders@andersnylund.com",
+    "website": "https://andersnylund.com",
+    "summary": "A highly motivated person who constantly strives for the best. I am highly technical and able to grasp bigger concepts both technically and organizationally. Taking ownership is something I value and strive for. I believe that any problem has a solution and that it can be found through discussion, understanding, and compassion. \n\n I have broad and firm experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my free time. I am able to take on bigger and complex challenges. If I stumble on something I am not familiar with I completely throw myself in it and learn how it works. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
+    "location": {
+      "city": "Helsinki",
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "derssii",
+        "url": "https://twitter.com/derssii"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "andersnylund",
+        "url": "https://www.linkedin.com/in/andersnylund/"
+      },
+      {
+        "network": "GitHub",
+        "username": "andersnylund",
+        "url": "https://github.com/andersnylund/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Reaktor",
+      "position": "Software Developer",
+      "website": "http://reaktor.com",
+      "startDate": "2019-09-16",
+      "summary": "Software consultancy. Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used but not limited to includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Docker"
+    },
+    {
+      "company": "HiQ Finland",
+      "position": "Software Developer",
+      "website": "https://hiq.fi",
+      "startDate": "2018-01-01",
+      "endDate": "2019-07-30",
+      "summary": "Software consultancy. Responsibility of backend development in microservice architecture. RESTful API design and backend development with Java, Spring, PostgreSQL in a Dockerized AWS environment. Frontend development with React. \n\n Development and support work of continued software projects. Technologies used includes React, TypeScript, Redux, Spring Boot, EJB."
+    },
+    {
+      "company": "Atentis",
+      "position": "Software Developer",
+      "website": "https://www.atentis.fi",
+      "startDate": "2017-01-01",
+      "endDate": "2018-08-30",
+      "summary": "Developed a backend service and RestAPI of in-house application from scratch using Java and MariaDB. Responsibility of planning, design, implementation and maintenance of product."
+    },
+    {
+      "company": "Wärtsilä Finland",
+      "position": "Software Developer",
+      "website": "https://www.wartsila.com/fin",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-30",
+      "summary": "Software development of 3D modelling with C# using DevExpress and SharpDX."
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Aalto University",
+      "area": "Sofware Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2017-09-04",
+      "endDate": "2020-02-24"
+    },
+    {
+      "institution": "University of Vaasa",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-09-01",
+      "endDate": "2017-05-31"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A multivocal literature review on developer experience",
+      "publisher": "Aalto University",
+      "releaseDate": "2020-03-16",
+      "summary": "The study was performed as multivocal literature review where articles written by both academics and practitioners were analyzed. The results from the review indicate that developer experience can be seen as a way to understand the feelings and perceptions of the developers in a software development context.",
+      "website": "https://aaltodoc.aalto.fi/handle/123456789/43567"
+    },
+    {
+      "name": "Työvuorojen laadinta ja optimointiohjelma",
+      "publisher": "University of Vaasa",
+      "releaseDate": "2017-01-14"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML & CSS",
+      "level": "3 years"
+    },
+    {
+      "name": "TypeScript",
+      "level": "2 years"
+    },
+    {
+      "name": "JavaScript",
+      "level": "3 years"
+    },
+    {
+      "name": "React",
+      "level": "3 years",
+      "keywords": ["Redux", "Styled Components", "SSR"]
+    },
+    {
+      "name": "Node JS",
+      "level": "3 years",
+      "keywords": ["Express.js", "SSR", "Knex"]
+    },
+    {
+      "name": "Agile Software Development",
+      "level": "4 years",
+      "keywords": ["Kanban", "Scrum"]
+    },
+    {
+      "name": "SQL Databases",
+      "level": "4 years",
+      "keywords": ["MariaDB", "PostgreSQL"]
+    },
+    {
+      "name": "Java",
+      "level": "3 years",
+      "keywords": ["Spring Boot", ""]
+    },
+    {
+      "name": "Azure Web Apps for Containers",
+      "level": "1 year"
+    },
+    {
+      "name": "CI / CD",
+      "level": "2 years",
+      "keywords": ["Travis CI", "Azure Pipelines"]
+    },
+    {
+      "name": "Software Testing",
+      "level": "4 years",
+      "keywords": ["JUnit", "Jest", "Enzyme", "React Testing Library"]
+    },
+    {
+      "name": "Contentful",
+      "level": "1 year"
+    },
+    {
+      "name": "Next JS",
+      "level": "1 year"
+    },
+    {
+      "name": "Web Accessibility",
+      "level": "1 year"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ]
+}
