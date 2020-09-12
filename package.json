@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Resume",
   "dependencies": {
+    "jsonresume-theme-elegant": "^1.13.2",
     "resume-cli": "^1.2.8"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "resume serve --theme elegant",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "resume server --theme elegant",
+    "build": "resume export --format html --theme elegant public/index.html"
   },
   "repository": {
     "type": "git",
