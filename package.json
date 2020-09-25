@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "Resume",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.13.2",
+    "jsonresume-theme-kwan": "0.0.2",
+    "puppeteer": "^5.3.1",
     "resume-cli": "^1.2.8"
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "resume serve --theme elegant",
-    "build": "resume export --format html --theme elegant public/index.html",
-    "pdf": "resume export --format pdf --theme elegant resume.pdf"
+    "dev": "resume serve --theme kwan",
+    "build": "resume export --format html --theme kwan public/index.html",
+    "pdf": "puppeteer --margin-top 35 --margin-right 35 --margin-bottom 35 --margin-left 35 --format A4 print public/index.html resume.pdf"
   },
   "repository": {
     "type": "git",
