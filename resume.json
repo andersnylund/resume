@@ -1,13 +1,14 @@
 {
   "basics": {
     "name": "Anders Nylund",
-    "label": "Software Developer",
+    "label": "Software Developer and Facilitator",
     "picture": "https://avatars0.githubusercontent.com/u/18005239",
     "email": "anders@andersnylund.com",
     "website": "https://andersnylund.com",
     "summary": "A highly motivated person who constantly strives for the best. I am highly technical and able to grasp bigger concepts both technically and organizationally. Taking ownership is something I value and strive for. I believe that any problem has a solution and that it can be found through discussion, understanding, and compassion. \n\n I have broad and firm experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my free time. I am able to take on bigger and complex challenges. If I stumble on something I am not familiar with I completely throw myself in it and learn how it works. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
     "location": {
       "city": "Helsinki",
+      "region": "Uusimaa",
       "countryCode": "FI"
     },
     "profiles": [
@@ -30,11 +31,18 @@
   },
   "work": [
     {
+      "company": "Derssi Oy",
+      "position": "Self-empoyed freelance software developer",
+      "startDate": "2020-10-26",
+      "summary": "Current role in project as scrum master and fullstack developer. Working as a facilitator for the team to find new and improve existing ways of working. Technologies used, but not limited to, includes Azure (App Service, Functions, MSSQL, Key Vault, Blob Storage), Terraform, JavaScript, React, Express, TypeScript, and Contentful"
+    },
+    {
       "company": "Reaktor",
       "position": "Software Developer",
-      "website": "http://reaktor.com",
+      "website": "https://www.reaktor.com/",
       "startDate": "2019-09-16",
-      "summary": "Software consultancy. Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used but not limited to includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Docker"
+      "endDate": "2020-10-22",
+      "summary": "Software consultancy. Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used but not limited to includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Terraform, and Docker"
     },
     {
       "company": "HiQ Finland",
@@ -108,7 +116,7 @@
     {
       "name": "React",
       "level": "3 years",
-      "keywords": ["Redux", "Styled Components", "SSR"]
+      "keywords": ["Redux", "Styled Components", "SSR", "Razzle.js"]
     },
     {
       "name": "Node JS",
@@ -118,7 +126,7 @@
     {
       "name": "Agile Software Development",
       "level": "4 years",
-      "keywords": ["Kanban", "Scrum"]
+      "keywords": ["Kanban", "Scrum", "Scrum Master", "Facilitation"]
     },
     {
       "name": "SQL Databases",
@@ -128,17 +136,25 @@
     {
       "name": "Java",
       "level": "3 years",
-      "keywords": ["Spring Boot", ""]
+      "keywords": ["Spring Framework", "EJB", "JUnit"]
     },
     {
-      "name": "VCS",
+      "name": "Git",
       "level": "4 years",
-      "keywords": ["Git"]
+      "keywords": ["Trunk based development", "GitFlow"]
     },
     {
       "name": "Azure",
       "level": "1 year",
-      "keywords": ["Web Apps for Containers", "CDN", "Database for PostgreSQL"]
+      "keywords": [
+        "Web Apps for Containers",
+        "CDN",
+        "Database for PostgreSQL",
+        "Functions",
+        "Blob Storage",
+        "Key Vault",
+        "API Management"
+      ]
     },
     {
       "name": "Heroku",
@@ -160,7 +176,7 @@
     {
       "name": "CI / CD",
       "level": "2 years",
-      "keywords": ["Travis CI", "Azure Pipelines"]
+      "keywords": ["Travis CI", "Azure Pipelines", "GitHub Actions"]
     },
     {
       "name": "Software Testing",
@@ -176,17 +192,21 @@
       "level": "1 year"
     },
     {
+      "name": "Gatsby",
+      "level": "less than 1 year"
+    },
+    {
       "name": "Web Accessibility",
       "level": "1 year"
     }
   ],
   "languages": [
     {
-      "language": "Finnish",
+      "language": "Swedish",
       "fluency": "Native proficiency"
     },
     {
-      "language": "Swedish",
+      "language": "Finnish",
       "fluency": "Native proficiency"
     },
     {
