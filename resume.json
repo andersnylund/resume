@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Anders Nylund",
-    "label": "Software Developer and Facilitator",
+    "label": "Software Developer and Agile Facilitator",
     "picture": "https://avatars0.githubusercontent.com/u/18005239",
-    "email": "anders@andersnylund.com",
+    "email": "anders@derssi.com",
     "website": "https://andersnylund.com",
-    "summary": "A highly motivated person who constantly strives for the best. I am highly technical and able to grasp bigger concepts both technically and organizationally. Taking ownership is something I value and strive for. I believe that any problem has a solution and that it can be found through discussion, understanding, and compassion. \n\n I have broad and firm experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my free time. I am able to take on bigger and complex challenges. If I stumble on something I am not familiar with I completely throw myself in it and learn how it works. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
+    "summary": "I'm a highly motivated person who constantly strives for the best. I am able to grasp bigger concepts both technically and organizationally and taking ownership is something I value and strive for. I believe that any problem has a solution and that it can be found through discussion, understanding, and compassion. \n\n I have broad and firm experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my free time. I am able to take on bigger and complex challenges. I constantly find myself in situations outside my comfort zone where I am not familiar with the technologies or the domain, however I quickly navigate myself out from there by learning the unknown areas work. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
     "location": {
       "city": "Helsinki",
       "region": "Uusimaa",
@@ -32,9 +32,9 @@
   "work": [
     {
       "company": "Derssi Oy",
-      "position": "Self-empoyed freelance software developer",
+      "position": "Self-empoyed contracting software developer, Scrum Master and Lead Fullstack Developer",
       "startDate": "2020-10-26",
-      "summary": "Current role in project as scrum master and fullstack developer. Working as a facilitator for the team to find new and improve existing ways of working. Technologies used, but not limited to, includes Azure (App Service, Functions, MSSQL, Key Vault, Blob Storage), Terraform, JavaScript, React, Express, TypeScript, and Contentful"
+      "summary": "Current role in project as scrum master and lead fullstack developer. Working as a facilitator for the team to find new and improve existing ways of working. Technologies used, but not limited to includes Azure (App Service, Functions, MSSQL, Key Vault, Blob Storage), Terraform, JavaScript, React, Express, TypeScript, and Contentful. Project includes constant ideation, development, iteration, and improvement together with different stakeholders"
     },
     {
       "company": "Reaktor",
@@ -103,34 +103,34 @@
   "skills": [
     {
       "name": "HTML & CSS",
-      "level": "3 years"
+      "level": "4 years"
     },
     {
       "name": "TypeScript",
-      "level": "2 years"
-    },
-    {
-      "name": "JavaScript",
       "level": "3 years"
     },
     {
+      "name": "JavaScript",
+      "level": "4 years"
+    },
+    {
       "name": "React",
-      "level": "3 years",
+      "level": "4 years",
       "keywords": ["Redux", "Styled Components", "SSR", "Razzle.js"]
     },
     {
       "name": "Node JS",
-      "level": "3 years",
+      "level": "4 years",
       "keywords": ["Express.js", "SSR", "Knex"]
     },
     {
       "name": "Agile Software Development",
-      "level": "4 years",
+      "level": "5 years",
       "keywords": ["Kanban", "Scrum", "Scrum Master", "Facilitation"]
     },
     {
       "name": "SQL Databases",
-      "level": "4 years",
+      "level": "5 years",
       "keywords": ["MariaDB", "PostgreSQL"]
     },
     {
@@ -140,12 +140,12 @@
     },
     {
       "name": "Git",
-      "level": "4 years",
+      "level": "5 years",
       "keywords": ["Trunk based development", "GitFlow"]
     },
     {
       "name": "Azure",
-      "level": "1 year",
+      "level": "2 years",
       "keywords": [
         "Web Apps for Containers",
         "CDN",
@@ -175,17 +175,17 @@
     },
     {
       "name": "CI / CD",
-      "level": "2 years",
+      "level": "3 years",
       "keywords": ["Travis CI", "Azure Pipelines", "GitHub Actions"]
     },
     {
       "name": "Software Testing",
-      "level": "4 years",
+      "level": "5 years",
       "keywords": ["JUnit", "Jest", "Enzyme", "React Testing Library"]
     },
     {
       "name": "Contentful",
-      "level": "1 year"
+      "level": "2 years"
     },
     {
       "name": "Next JS",
