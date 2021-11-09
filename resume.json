@@ -43,7 +43,7 @@
       "company": "Derssi",
       "position": "Self-empoyed software developer contractor",
       "startDate": "2020-10-26",
-      "summary": "Current role in project as scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to find new ways of working and improving existing ones. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
+      "summary": "Scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to find new ways of working and improving existing ones. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
     },
     {
       "company": "Reaktor",
@@ -51,7 +51,7 @@
       "website": "https://www.reaktor.com",
       "startDate": "2019-09-16",
       "endDate": "2020-10-22",
-      "summary": "Software consultancy. Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used but not limited to includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Terraform, and Docker"
+      "summary": "Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used but not limited to includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Terraform, and Docker"
     },
     {
       "company": "HiQ Finland",
@@ -59,7 +59,7 @@
       "website": "https://hiq.fi",
       "startDate": "2018-01-01",
       "endDate": "2019-07-30",
-      "summary": "Software consultancy. Responsibility of backend development in microservice architecture. RESTful API design and backend development with Java, Spring, PostgreSQL in a Dockerized AWS environment. Frontend development with React. \n\n Development and support work of continued software projects. Technologies used includes React, TypeScript, Redux, Spring Boot, EJB."
+      "summary": "Responsibility of backend development in microservice architecture. RESTful API design and backend development with Java, Spring, PostgreSQL in a Dockerized AWS environment. Frontend development with React. \n\n Development and support work of continued software projects. Technologies used includes React, TypeScript, Redux, Spring Boot, EJB."
     },
     {
       "company": "Atentis",
