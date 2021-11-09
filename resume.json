@@ -5,7 +5,7 @@
     "picture": "https://avatars0.githubusercontent.com/u/18005239",
     "email": "anders@derssi.com",
     "website": "https://andersnylund.com",
-    "summary": "I'm a highly motivated person who constantly strives for the best. I am able to grasp bigger concepts both technically and organizationally and taking ownership is something I value and strive for. I believe that any problem has a solution and that it can be found through discussion, understanding, and compassion. \n\n I have broad and firm experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my free time. I am able to take on bigger and complex challenges. I constantly find myself in situations outside my comfort zone where I am not familiar with the technologies or the domain, however I quickly navigate myself out from there by learning the unknown areas work. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
+    "summary": "I'm a highly motivated person who strives for the best. I'm able to grasp bigger concepts both technically and organizationally. I strive to take ownership and value it in my teammates. I believe that all problems have solutions and that they can be found through discussion, understanding, and compassion. \n\n I have experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my spare time. I am able to take on bigger and complex challenges. I constantly find myself in situations outside my comfort zone, where I am not familiar with the technologies or the domain. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
     "location": {
       "city": "Helsinki",
       "region": "Uusimaa",
@@ -34,7 +34,7 @@
       "company": "Derssi Oy",
       "position": "Self-empoyed contracting software developer, Scrum Master and Lead Fullstack Developer",
       "startDate": "2020-10-26",
-      "summary": "Current role in project as scrum master and lead fullstack developer. Working as a facilitator for the team to find new and improve existing ways of working. Technologies used, but not limited to includes Azure (App Service, Functions, MSSQL, Key Vault, Blob Storage), Terraform, JavaScript, React, Express, TypeScript, and Contentful. Project includes constant ideation, development, iteration, and improvement together with different stakeholders"
+      "summary": "Current role in project as scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to find new ways of working and improving existing ones. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful. "
     },
     {
       "company": "Reaktor",
