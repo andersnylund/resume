@@ -1,10 +1,11 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
   "basics": {
     "name": "Anders Nylund",
     "label": "Software Developer and Agile Facilitator",
     "picture": "https://avatars0.githubusercontent.com/u/18005239",
     "email": "anders@derssi.com",
-    "website": "https://andersnylund.com",
+    "url": "https://andersnylund.com",
     "summary": "I'm a highly motivated person who strives for the best. I'm able to grasp bigger concepts both technically and organizationally. I strive to take ownership and value it in my teammates. I believe that all problems have solutions and that they can be found through discussion, understanding, and compassion. \n\n I have experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my spare time. I am able to take on bigger and complex challenges. I constantly find myself in situations outside my comfort zone, where I am not familiar with the technologies or the domain. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
     "location": {
       "city": "Helsinki",
@@ -13,33 +14,41 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "twitter",
         "username": "derssii",
         "url": "https://twitter.com/derssii"
       },
       {
-        "network": "LinkedIn",
+        "network": "linkedin",
         "username": "andersnylund",
-        "url": "https://www.linkedin.com/in/andersnylund/"
+        "url": "https://www.linkedin.com/in/andersnylund"
       },
       {
-        "network": "GitHub",
+        "network": "github",
         "username": "andersnylund",
-        "url": "https://github.com/andersnylund/"
+        "url": "https://github.com/andersnylund"
+      },
+      {
+        "network": "other",
+        "url": "https://andersnylund.com"
+      },
+      {
+        "network": "other",
+        "url": "https://blog.andersnylund.com"
       }
     ]
   },
   "work": [
     {
-      "company": "Derssi Oy",
-      "position": "Self-empoyed contracting software developer, Scrum Master and Lead Fullstack Developer",
+      "company": "Derssi",
+      "position": "Self-empoyed software developer contractor",
       "startDate": "2020-10-26",
-      "summary": "Current role in project as scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to find new ways of working and improving existing ones. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful. "
+      "summary": "Current role in project as scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to find new ways of working and improving existing ones. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
     },
     {
       "company": "Reaktor",
       "position": "Software Developer",
-      "website": "https://www.reaktor.com/",
+      "website": "https://www.reaktor.com",
       "startDate": "2019-09-16",
       "endDate": "2020-10-22",
       "summary": "Software consultancy. Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used but not limited to includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Terraform, and Docker"
