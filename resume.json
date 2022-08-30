@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
   "basics": {
     "name": "Anders Nylund",
-    "label": "Software Developer and Agile Facilitator",
+    "label": "Fullstack Web Developer and Agile Facilitator",
     "picture": "https://avatars0.githubusercontent.com/u/18005239",
     "email": "anders@derssi.com",
     "url": "https://andersnylund.com",
-    "summary": "I'm a highly motivated person who strives for the best. I'm able to grasp bigger concepts both technically and organizationally. I strive to take ownership and value it in my teammates. I believe that all problems have solutions and that they can be found through discussion, understanding, and compassion. \n\n I have experience and knowledge in web development technologies, and I am constantly learning new things during my daily work and during my spare time. I am able to take on bigger and complex challenges. I constantly find myself in situations outside my comfort zone, where I am not familiar with the technologies or the domain. \n\nAreas I exceed include learning new things fast, creating a common understanding together with everyone involved, and making teams perform together through constant improvement.",
+    "summary": "I'm a highly motivated fullstack web developer who strives for the best. I'm a team player that wants to take ownership of the things he is working on. I'm able to grasp bigger concepts both technically and organisationally. I think that all problems have a solution and that they can be found through discussion, understanding, and compassion. Because of this I often find myself gravitating towards the role of improving the ways of working of the team, and by that, improving effectiveness of the team to reach the common goal.\n\nI have deep knowledge in full-stack web development technologies, and the past years I've been digging deep into React, Node, TypeScript and Azure. Quality at all layers of web development, e.g. pixel-tweaking, backend speed optimisation, and cloud security, are all really important to me. Being a jack of all trades is really important to me, as I think that this is the way I can be the most valuable to the team and the common goal of the project. Because of this I'm constantly out of his comfort zone learning and finding out new things during my daily work and spare time.",
     "location": {
       "city": "Helsinki",
       "region": "Uusimaa",
@@ -112,49 +112,49 @@
   "skills": [
     {
       "name": "HTML & CSS",
-      "level": "4 years"
+      "level": "5 years"
     },
     {
       "name": "TypeScript",
-      "level": "3 years"
-    },
-    {
-      "name": "JavaScript",
       "level": "4 years"
     },
     {
+      "name": "JavaScript",
+      "level": "5 years"
+    },
+    {
       "name": "React",
-      "level": "4 years",
+      "level": "5 years",
       "keywords": ["Redux", "Styled Components", "SSR", "Razzle.js"]
     },
     {
       "name": "Node JS",
-      "level": "4 years",
+      "level": "5 years",
       "keywords": ["Express.js", "SSR", "Knex"]
     },
     {
       "name": "Agile Software Development",
-      "level": "5 years",
+      "level": "6 years",
       "keywords": ["Kanban", "Scrum", "Scrum Master", "Facilitation"]
     },
     {
       "name": "SQL Databases",
-      "level": "5 years",
+      "level": "6 years",
       "keywords": ["MariaDB", "PostgreSQL"]
     },
     {
       "name": "Java",
-      "level": "3 years",
+      "level": "4 years",
       "keywords": ["Spring Framework", "EJB", "JUnit"]
     },
     {
       "name": "Git",
-      "level": "5 years",
+      "level": "6 years",
       "keywords": ["Trunk based development", "GitFlow"]
     },
     {
       "name": "Azure",
-      "level": "2 years",
+      "level": "3 years",
       "keywords": [
         "Web Apps for Containers",
         "CDN",
@@ -167,38 +167,38 @@
     },
     {
       "name": "Heroku",
-      "level": "2 years"
+      "level": "3 years"
     },
     {
       "name": "Netlify",
-      "level": "2 years"
+      "level": "3 years"
     },
     {
       "name": "Terraform",
-      "level": "2 year",
+      "level": "3 year",
       "keywords": ["Azure Provider"]
     },
     {
       "name": "Docker",
-      "level": "2 years"
+      "level": "3 years"
     },
     {
       "name": "CI / CD",
-      "level": "3 years",
+      "level": "4 years",
       "keywords": ["Travis CI", "Azure Pipelines", "GitHub Actions"]
     },
     {
       "name": "Software Testing",
-      "level": "5 years",
+      "level": "6 years",
       "keywords": ["JUnit", "Jest", "Enzyme", "React Testing Library"]
     },
     {
       "name": "Contentful",
-      "level": "2 years"
+      "level": "3 years"
     },
     {
       "name": "Next JS",
-      "level": "1 year"
+      "level": "2 years"
     },
     {
       "name": "Gatsby",
@@ -206,7 +206,7 @@
     },
     {
       "name": "Web Accessibility",
-      "level": "1 year"
+      "level": "2 years"
     }
   ],
   "languages": [
