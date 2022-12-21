@@ -40,22 +40,23 @@
   },
   "work": [
     {
-      "company": "Finnish retail company",
+      "company": "Project with Finnish retail company",
       "position": "Lead Fullstack Web Developer",
       "startDate": "2021-12-13",
       "summary": "Lead fullstack developer. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup, maintenance, to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
     },
     {
-      "company": "Finnish real estate company",
+      "company": "8-bit-sheep",
+      "position": "Fullstack Web Developer",
+      "startDate": "2021-12-01",
+      "website": "https://8-bit-sheep.com/"
+    },
+    {
+      "company": "Project with Finnish real estate company",
       "position": "Lead Fullstack Web Developer and Scrum Master",
       "startDate": "2020-10-26",
       "endDate": "2021-11-26",
       "summary": "Scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to improve and find new ways of working. Methods included constant ideation, development, iteration, and improvement together with the software team, product owners and other customer stakeholders. Development tasks included the whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
-    },
-    {
-      "company": "8-bit-sheep",
-      "position": "Fullstack Web Developer",
-      "startDate": "2021-12-01"
     },
     {
       "company": "Derssi Oy",
