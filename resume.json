@@ -3,10 +3,10 @@
   "basics": {
     "name": "Anders Nylund",
     "label": "Fullstack Web Developer and Agile Facilitator",
-    "picture": "https://avatars0.githubusercontent.com/u/18005239",
+    "image": "https://avatars0.githubusercontent.com/u/18005239",
     "email": "anders.nylund@8-bit-sheep.com",
     "url": "https://nylund.co",
-    "summary": "I'm a highly motivated fullstack web developer who strives for the best. I'm a team player that wants to take ownership of the things he is working on. I'm able to grasp bigger concepts both technically and organisationally. I think that all problems have a solution and that they can be found through discussion, understanding, and compassion. Because of this I often find myself gravitating towards the role of improving the ways of working of the team, and by that, improving effectiveness of the team to reach the common goal.\n\nI have deep knowledge in full-stack web development technologies, and the past years I've been digging deep into React, Node, TypeScript and Azure. Quality at all layers of web development, e.g. pixel-tweaking, backend speed optimisation, and cloud security, are all really important to me. Being a jack of all trades is really important to me, as I think that this is the way I can be the most valuable to the team and the common goal of the project. Because of this I'm constantly out of his comfort zone learning and finding out new things during my daily work and spare time.",
+    "summary": "I'm a highly motivated fullstack web developer who strives for the best. I'm a team player that wants to take ownership of the things he is working on. I'm able to grasp bigger concepts both technically and organisationally. I think that all problems have a solution and that they can be found through discussion, understanding, and compassion. Because of this I often find myself gravitating towards the role of improving the ways of working of the team, and by that, improving effectiveness of the team to reach the common goal. I have deep knowledge in full-stack web development technologies, and the past years I've been digging deep into React, Node, TypeScript and Azure. Quality at all layers of web development, e.g. pixel-tweaking, backend speed optimisation, and cloud security, are all really important to me. Being a jack of all trades is really important to me, as I think that this is the way I can be the most valuable to the team and the common goal of the project. Because of this I'm constantly out of his comfort zone learning and finding out new things during my daily work and spare time.",
     "location": {
       "city": "Helsinki",
       "region": "Uusimaa",
@@ -40,13 +40,13 @@
   },
   "work": [
     {
-      "company": "8-bit-sheep",
+      "name": "8-bit-sheep",
       "position": "Fullstack Web Developer",
       "startDate": "2021-12-01",
-      "website": "https://8-bit-sheep.com/"
+      "url": "https://8-bit-sheep.com/"
     },
     {
-      "company": "Derssi Oy",
+      "name": "Derssi Oy",
       "position": "Self-empoyed software developer contractor",
       "startDate": "2020-10-26",
       "summary": "Providing my expertise and knowledge through consulting services as an independent contractor"
@@ -59,40 +59,40 @@
       "summary": "Lead fullstack developer. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup, maintenance, to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
     },
     {
-      "company": "Project with Finnish real estate company",
+      "name": "Project with Finnish real estate company",
       "position": "Lead Fullstack Web Developer and Scrum Master",
       "startDate": "2020-10-26",
       "endDate": "2021-11-26",
       "summary": "Scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to improve and find new ways of working. Methods included constant ideation, development, iteration, and improvement together with the software team, product owners and other customer stakeholders. Development tasks included the whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
     },
     {
-      "company": "Reaktor",
+      "name": "Reaktor",
       "position": "Software Developer",
-      "website": "https://www.reaktor.com",
+      "url": "https://www.reaktor.com",
       "startDate": "2019-09-16",
       "endDate": "2020-10-22",
       "summary": "Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Terraform, and Docker"
     },
     {
-      "company": "HiQ Finland",
+      "name": "HiQ Finland",
       "position": "Software Developer",
-      "website": "https://hiq.fi",
+      "url": "https://hiq.fi",
       "startDate": "2018-01-01",
       "endDate": "2019-07-30",
       "summary": "Responsibility of backend development in microservice architecture. RESTful API design and backend development with Java, Spring, PostgreSQL in a Dockerized AWS environment. Frontend development with React. \n\n Development and support work of continued software projects. Technologies used includes React, TypeScript, Redux, Spring Boot, EJB."
     },
     {
-      "company": "Atentis",
+      "name": "Atentis",
       "position": "Software Developer",
-      "website": "https://www.atentis.fi",
+      "url": "https://www.atentis.fi",
       "startDate": "2017-01-01",
       "endDate": "2018-08-30",
       "summary": "Developed a backend service and RestAPI of in-house application from scratch using Java and MariaDB. Responsibility of planning, design, implementation and maintenance of product."
     },
     {
-      "company": "Wärtsilä Finland",
+      "name": "Wärtsilä Finland",
       "position": "Software Developer",
-      "website": "https://www.wartsila.com/fin",
+      "url": "https://www.wartsila.com/fin",
       "startDate": "2016-05-01",
       "endDate": "2016-08-30",
       "summary": "Software development of 3D modelling with C# using DevExpress and SharpDX."
@@ -105,14 +105,16 @@
       "area": "Sofware Engineering",
       "studyType": "Master of Science",
       "startDate": "2017-09-04",
-      "endDate": "2020-02-24"
+      "endDate": "2020-02-24",
+      "url": "https://www.aalto.fi"
     },
     {
       "institution": "University of Vaasa",
       "area": "Information Technology",
       "studyType": "Bachelor of Science",
       "startDate": "2014-09-01",
-      "endDate": "2017-05-31"
+      "endDate": "2017-05-31",
+      "url": "https://www.uwasa.fi"
     }
   ],
   "publications": [
@@ -121,7 +123,7 @@
       "publisher": "Aalto University",
       "releaseDate": "2020-03-16",
       "summary": "The study was performed as multivocal literature review where articles written by both academics and practitioners were analyzed. The results from the review indicate that developer experience can be seen as a way to understand the feelings and perceptions of the developers in a software development context.",
-      "website": "https://aaltodoc.aalto.fi/handle/123456789/43567"
+      "url": "https://aaltodoc.aalto.fi/handle/123456789/43567"
     },
     {
       "name": "Työvuorojen laadinta ja optimointiohjelma",
