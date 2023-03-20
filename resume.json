@@ -30,11 +30,11 @@
       },
       {
         "network": "other",
-        "url": "https://andersnylund.com"
+        "url": "https://nylund.co"
       },
       {
         "network": "other",
-        "url": "https://blog.andersnylund.com"
+        "url": "https://blog.nylund.co"
       }
     ]
   },
@@ -43,6 +43,7 @@
       "company": "Project with Finnish retail company",
       "position": "Lead Fullstack Web Developer",
       "startDate": "2021-12-13",
+      "endDate": "2023-01-31",
       "summary": "Lead fullstack developer. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup, maintenance, to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
     },
     {
