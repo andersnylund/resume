@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
   "basics": {
     "name": "Anders Nylund",
-    "label": "Fullstack Web Developer and Agile Facilitator",
+    "label": "Fullstack Web Developer",
     "image": "https://avatars0.githubusercontent.com/u/18005239",
     "email": "anders.nylund@8-bit-sheep.com",
     "url": "https://nylund.co",
