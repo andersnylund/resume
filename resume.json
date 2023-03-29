@@ -6,7 +6,7 @@
     "image": "https://avatars0.githubusercontent.com/u/18005239",
     "email": "anders.nylund@8-bit-sheep.com",
     "url": "https://nylund.co",
-    "summary": "I'm a highly motivated fullstack web developer who strives for the best. I'm a team player that wants to take ownership of the things he is working on. I'm able to grasp bigger concepts both technically and organisationally. I think that all problems have a solution and that they can be found through discussion, understanding, and compassion. Because of this I often find myself gravitating towards the role of improving the ways of working of the team, and by that, improving effectiveness of the team to reach the common goal. I have deep knowledge in full-stack web development technologies, and the past years I've been digging deep into React, Node, TypeScript and Azure. Quality at all layers of web development, e.g. pixel-tweaking, backend speed optimisation, and cloud security, are all really important to me. Being a jack of all trades is really important to me, as I think that this is the way I can be the most valuable to the team and the common goal of the project. Because of this I'm constantly out of his comfort zone learning and finding out new things during my daily work and spare time.",
+    "summary": "I'm a fullstack web developer who is striving to do my best. Being a team player is important to me and I enjoy taking ownership of things. I strongly believe that all problems have solutions and that they can be found through discussion and understanding. Due to this I often find myself gravitating towards the role of improving the ways of working of the team, and by that, improving effectiveness of the team to reach the common goal. I'm comfortable with full-stack web development technologies and being a jack of all trades is really important to me.",
     "location": {
       "city": "Helsinki",
       "region": "Uusimaa",
@@ -51,14 +51,14 @@
       "position": "Lead Fullstack Web Developer",
       "startDate": "2021-12-13",
       "endDate": "2023-01-31",
-      "summary": "Lead fullstack developer. Working methods includes constant ideation, development, iteration, and improvement together with customer stakeholders. Development tasks includes whole development lifecycle from infrastructure setup, maintenance, to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
+      "summary": "Working together with client stakeholders with constant ideation, development, iteration, and improvement. Tasks included the whole development lifecycle from infrastructure setup, maintenance, to fullstack web development."
     },
     {
       "name": "Project with Finnish real estate company",
       "position": "Lead Fullstack Web Developer and Scrum Master",
       "startDate": "2020-10-26",
       "endDate": "2021-11-26",
-      "summary": "Scrum master and lead fullstack developer. Working as a hands-on facilitator for the team to improve and find new ways of working. Methods included constant ideation, development, iteration, and improvement together with the software team, product owners and other customer stakeholders. Development tasks included the whole development lifecycle from infrastructure setup and maintenance to fullstack web development. Technologies used, but not limited to, includes complete Azure infrastructure managed with Terraform, JavaScript, React, Express, TypeScript, and Contentful."
+      "summary": "Hands-on facilitator, developer and Scrum Master of the team. Working closely together with client stakeholders with planning and implementation tasks."
     },
     {
       "name": "Reaktor",
@@ -66,7 +66,7 @@
       "url": "https://www.reaktor.com",
       "startDate": "2019-09-16",
       "endDate": "2020-10-22",
-      "summary": "Fullstack development and infrastructure setup and maintenance in a highly skilled and motivated team. Responsibility of working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges. Technologies used includes Azure, React, Express, TypeScript, Contentful, PostgreSQL, Terraform, and Docker"
+      "summary": "Fullstack and DevOps work. Working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges."
     },
     {
       "name": "HiQ Finland",
