@@ -36,37 +36,25 @@
   "work": [
     {
       "name": "8-bit-sheep",
-      "position": "Fullstack Web Developer",
+      "position": "Senior Fullstack Web Developer",
       "startDate": "2021-12-01",
-      "url": "https://8-bit-sheep.com/"
+      "url": "https://8-bit-sheep.com/",
+      "summary": "Fullstack web developer consultant working for various clients and projects."
     },
     {
       "name": "Derssi Oy",
-      "position": "Self-empoyed software developer contractor",
+      "position": "Self-employed software developer contractor",
       "startDate": "2020-10-26",
-      "summary": "Providing my expertise and knowledge through consulting services as an independent contractor"
+      "summary": "Providing my expertise and knowledge through consulting services as an independent contractor."
     },
-    {
-      "company": "Project with Finnish retail company",
-      "position": "Lead Fullstack Web Developer",
-      "startDate": "2021-12-13",
-      "endDate": "2023-01-31",
-      "summary": "Working together with client stakeholders with constant ideation, development, iteration, and improvement. Tasks included the whole development lifecycle from infrastructure setup, maintenance, to fullstack web development."
-    },
-    {
-      "name": "Project with Finnish real estate company",
-      "position": "Lead Fullstack Web Developer and Scrum Master",
-      "startDate": "2020-10-26",
-      "endDate": "2021-11-26",
-      "summary": "Hands-on facilitator, developer and Scrum Master of the team. Working closely together with client stakeholders with planning and implementation tasks."
-    },
+
     {
       "name": "Reaktor",
       "position": "Software Developer",
       "url": "https://www.reaktor.com",
       "startDate": "2019-09-16",
       "endDate": "2020-10-22",
-      "summary": "Fullstack and DevOps work. Working closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges."
+      "summary": "Fullstack web developer and and DevOps consultant. Working in a longer project closely together with everyone in the team including the designers, the client, and other stakeholders. Improving the technical solutions, teamworking practices, and organizational challenges."
     },
     {
       "name": "HiQ Finland",
@@ -74,7 +62,7 @@
       "url": "https://hiq.fi",
       "startDate": "2018-01-01",
       "endDate": "2019-07-30",
-      "summary": "Responsibility of backend development in microservice architecture. RESTful API design and backend development with Java, Spring, PostgreSQL in a Dockerized AWS environment. Frontend development with React. \n\n Development and support work of continued software projects. Technologies used includes React, TypeScript, Redux, Spring Boot, EJB."
+      "summary": "Fullstack web developer consultant. Working on various different projects with clients consisting of backend development work."
     },
     {
       "name": "Atentis",
@@ -82,18 +70,36 @@
       "url": "https://www.atentis.fi",
       "startDate": "2017-01-01",
       "endDate": "2018-08-30",
-      "summary": "Developed a backend service and RestAPI of in-house application from scratch using Java and MariaDB. Responsibility of planning, design, implementation and maintenance of product."
+      "summary": "Desgigned, implemented, and maintained a backend service and RestAPI of in-house application from using Java and MariaDB."
     },
     {
       "name": "Wärtsilä Finland",
-      "position": "Software Developer",
+      "position": "Junior Software Developer",
       "url": "https://www.wartsila.com/fin",
       "startDate": "2016-05-01",
       "endDate": "2016-08-30",
       "summary": "Software development of 3D modelling with C# using DevExpress and SharpDX."
     }
   ],
-
+  "projects": [
+    {
+      "name": "Finnish retail company",
+      "roles": ["Lead Fullstack Web Developer", "working at 8-bit-sheep"],
+      "startDate": "2021-12-13",
+      "endDate": "2023-01-31",
+      "description": "Working together with client stakeholders with constant ideation, development, iteration, and improvement. Tasks included the whole development lifecycle from infrastructure setup, maintenance, to fullstack web development."
+    },
+    {
+      "name": "Finnish real estate company",
+      "roles": [
+        "Lead Fullstack Web Developer, Scrum Master",
+        "working through Derssi Oy"
+      ],
+      "startDate": "2020-10-26",
+      "endDate": "2021-11-26",
+      "description": "Hands-on facilitator, developer and Scrum Master of the team. Working closely together with client stakeholders in planning and implementation tasks."
+    }
+  ],
   "education": [
     {
       "institution": "Aalto University",

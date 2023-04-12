@@ -4,12 +4,12 @@
   "description": "Resume of Anders Nylund",
   "dependencies": {
     "html-pdf": "^3.0.1",
-    "jsonresume-theme-actual": "^0.2.1",
+    "jsonresume-theme-8-bit-sheep": "^1.0.0",
     "resume-cli": "^3.0.8"
   },
   "scripts": {
-    "dev": "resume serve --theme actual",
-    "build": "resume export --format html --theme actual public/index.html",
+    "dev": "resume serve --theme 8-bit-sheep",
+    "build": "resume export --format html --theme 8-bit-sheep public/index.html",
     "pdf": "node topdf.js"
   },
   "repository": {
