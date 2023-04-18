@@ -4,7 +4,7 @@
   "description": "Resume of Anders Nylund",
   "dependencies": {
     "html-pdf": "^3.0.1",
-    "jsonresume-theme-8-bit-sheep": "^1.5.0",
+    "jsonresume-theme-8-bit-sheep": "^1.6.0",
     "resume-cli": "^3.0.8"
   },
   "scripts": {
